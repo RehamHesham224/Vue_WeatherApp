@@ -1,4 +1,5 @@
 # wearher-vue
+create an asynchronous web app that uses Web API to dynamically update the UI in a Weather application.
 
 ## Project setup
 ```
@@ -23,9 +24,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Weather Journal App with Asynchronous JavaScript
-
-create an asynchronous web app that uses Web API to dynamically update the UI in a Weather application.
 
 ## Project Specifications
 
